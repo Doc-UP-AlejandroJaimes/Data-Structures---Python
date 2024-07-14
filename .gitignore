@@ -1,2 +1,10 @@
 # All to ignore
+
+#### Python Files
 **/__pycache__/
+
+### VsCode Files
+.vsCode/
+
+#### Own Files
+sources/
